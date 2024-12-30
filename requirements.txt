@@ -6,4 +6,4 @@ fpdf
 qrcode
 apscheduler
 flask-mail
-
+psycopg2
