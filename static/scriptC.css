@@ -1,0 +1,13 @@
+/* Initialement, l'élément de l'alerte est caché */
+.tooltip-hidden {
+    display: none;
+    background-color: #f44336; /* Rouge pour l'erreur */
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.tooltip-visible {
+    display: block; /* Affiche l'alerte lorsque l'erreur est présente */
+}
