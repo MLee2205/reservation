@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+marshmallow-sqlalchemy
+pyjwt
+fpdf
+qrcode
+apscheduler
+flask-mail
+
